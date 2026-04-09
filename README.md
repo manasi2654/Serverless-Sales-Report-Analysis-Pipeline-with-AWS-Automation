@@ -60,7 +60,7 @@ This project demonstrates an automated serverless data pipeline using AWS servic
 `sales_data.csv`
 
 ## 📤 Sample Output
-`sample_report.json`
+`report.json`
 
 ---
 
